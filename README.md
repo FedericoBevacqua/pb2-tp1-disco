@@ -5,7 +5,7 @@
 ## Integrantes:
 
  - Bevacqua Federico Iván - 39.336.983
- - Falon Gabriel - ..
+ - Falon Gabriel Gonzalo - 34.348.308
 
 **Enunciado:** En grupos de a dos personas, un integrante deberá crear una clase que permita modelar un Disco. 
 
